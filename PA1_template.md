@@ -107,7 +107,6 @@ median(aggregated_data3$steps)
 ## [1] 10766.19
 ```
 
-
 ## Are there differences in activity patterns between weekdays and weekends?
 
 ```r
